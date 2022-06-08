@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mainGrid {
+
+    padding-left: 35%;
+    padding-top: 5%;
+     min-height  : 100vh;
+}
+
+
+.h2L{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.tdL{
+    padding-top: 30px;
+}
+

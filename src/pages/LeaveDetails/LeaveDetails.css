@@ -1,0 +1,20 @@
+.LDHeader{
+    padding-left: 40%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+   
+.LDCard{
+    width: 400px;
+    justify-content: center;
+    background: black;
+    color: #d2d2d2;
+}
+
+.LDHome{
+    position: fixed;
+    margin-left: 80%;
+   
+    color: white;
+  
+}

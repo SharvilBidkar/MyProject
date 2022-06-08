@@ -1,0 +1,33 @@
+
+.EDTypography{
+    text-align: center;
+    padding-top: 5%;
+  
+    font:italic;
+}
+
+.EDtable{
+    color: aliceblue;
+    margin-top: 5%;
+    padding: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    margin-left: 13%;
+}
+
+.EDth{
+    color: aliceblue;
+    border: 1px solid black;
+    background: rgb(0, 0, 0);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.EDGrid{
+    background: rgb(0, 0, 0);
+    margin-left: 100px;
+}
+
+.EDtd{
+    text-align: center;
+}
